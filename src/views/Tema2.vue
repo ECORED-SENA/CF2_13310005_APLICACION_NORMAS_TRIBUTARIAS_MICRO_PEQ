@@ -2,11 +2,11 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
       h1 Normatividad tributaria
-    .bloque-texto-a.color-secundario.p-4.p-md-4.mb-5 
+    .bloque-texto-a.color-secundario.p-4.p-md-4.mb-5(data-aos="zoom-in-up")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-3.mb-4.mb-lg-0
           figure
@@ -22,11 +22,11 @@
       .col-lg-9
         p #[span.txt-deco1 Desde el decreto 624 de marzo 30 de 1989] en donde el Ministerio de Hacienda y Crédito Público expide el “estatuto tributario de los impuestos administrados por la dirección general de impuestos nacionales”, hasta la fecha de manera permanente, ante los cambios económicos y las mismas necesidades de ajustar esas reglas establecidas, el gobierno nacional ha venido tanto derogando artículos como creando algunos otros. Hoy en día el estatuto tributario compila en orden cronológico las leyes tributarias vigentes a nivel nacional.
       .col-lg-3
-        figure
+        figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema2/img1.svg', style="width: 250px").m-auto
     .row
       .col-1
-      .col-lg-5.bg-color4
+      .col-lg-5
         h3.txt-deco2.mt-5 #[u Este estatuto presenta la siguiente estructura:]
       .col-12
         LineaTiempoE.color-acento-contenido.my-5
@@ -114,7 +114,7 @@
       .col-lg-9.mb-4.mb-lg-0
         p.mb-0 Este decreto surge ante la necesidad estatal de racionalizar y simplificar el ordenamiento jurídico tributario en busca de la eficiencia económica del recaudo de impuestos en nuestro país. Antes de la expedición del decreto único reglamentario, era habitual encontrar normas que regulan la materia, pero que en algunos casos entre sí podrían generar controversia al interpretarse y aplicarse o que incluso podrían estar derogadas y aun se pretendían aplicar por parte de los contribuyentes. Por tal motivo, el gobierno nacional incorpora en un solo cuerpo normativo las reglamentaciones vigentes con el propósito de tener un mejor entendimiento y conseguir un mejor conocimiento para todos los actores involucrados en el sistema fiscal colombiano.
       .col-lg-3
-        figure
+        figure(data-aos="zoom-in-up")
           img(src='@/assets/curso/tema2/img4.svg', style="width: 450px").m-auto
     .row.justify-content-center.mb-5
       .col-lg-8.bg-color4
@@ -134,7 +134,7 @@
     p.mb-5 Adicional al estatuto tributario y del decreto único reglamentario, se debe estar informado de otros compromisos fiscales que pueden ser un poco más específicos incluso para cada sector de la economía o para cada caso en particular, y que son de igual manera de carácter obligatorio para los contribuyentes. Por ejemplo, del orden nacional se encuentra la renta activos en el exterior, la cual es una declaración que se debe presentar cada año por parte de las personas naturales o jurídicas que posean activos fuera del territorio nacional, dicha responsabilidad está consagrada en el artículo 42 de la ley 1739 del 2014.
     .row.align-items-center.mb-5
       .col-lg-5.mb-5.mb-lg-0
-        figure
+        figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema2/img5.svg', style="width: 400px").m-auto
       .col-lg-7
         .cajon.color-primario.p-5.mb-4
@@ -146,7 +146,7 @@
     p.mb-5 Este es otro tema igual que el anteriormente expuesto, en donde los micro y pequeños emprendedores, deben tener pleno conocimiento para cumplir con dichas responsabilidades adicionales y no asumir riesgos de posibles multas o sanciones. Es aquí donde se encuentra la responsabilidad de reportar la información exógena de las empresas ante la DIAN. En algunos municipios del territorio nacional también se regulan estos reportes de carácter obligatorio, por ello es muy importante conocer los acuerdos municipales en donde se desarrollará el objeto social.
     .titulo-sexto.color-acento-contenido.mb-5
       p.mb-0 #[b Figura 2.] Formatos de impuestos
-    figure.mb-5
+    figure.mb-5(data-aos="zoom-in-up")
       img(src='@/assets/curso/tema2/img1.png', style="width: 1200px").m-auto
     .row.justify-content-center.mb-5
       .col-lg-7

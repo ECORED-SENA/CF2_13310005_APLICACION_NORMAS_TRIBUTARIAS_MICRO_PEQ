@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
       h1 Responsabilidad Tributaria
@@ -12,7 +12,7 @@
         figure.mb-5
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    .bloque-texto-a.color-secundario.p-4.p-md-4.mb-5 
+    .bloque-texto-a.color-secundario.p-4.p-md-4.mb-5(data-aos="flip-right")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-3.mb-4.mb-lg-0
           figure
@@ -90,7 +90,7 @@
       h2 1.2. Impuestos
     .row.mb-5
       .col-lg-4.mb-4
-        figure
+        figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/img5.svg', style="width: 220px").m-auto
       .col-lg-8
         .dual-txt-deco
@@ -129,7 +129,7 @@
             p.mb-5 Los impuestos se clasifican en directos e indirectos de la siguiente manera (ver figura 1):
             .titulo-sexto.color-acento-contenido.mb-5
               p.mb-0 #[b figura 1.] Clasificación de los impuestos
-            figure
+            figure(data-aos="zoom-in-up")
               img(src='@/assets/curso/tema1/img6.svg', style="width: 1020px").m-auto
     .row.bg-color1.mb-5
       .col-12.py-5
@@ -231,7 +231,7 @@
     #t_1_4
     .titulo-segundo.color-secundario
       h2 1.4 Tipos de formatos
-    .bloque-texto-a.color-primario.p-4.p-md-5.mb-5 
+    .bloque-texto-a.color-primario.p-4.p-md-5.mb-5(data-aos="zoom-in")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-3.mb-4.mb-lg-0
         .col-lg-9
@@ -388,7 +388,7 @@
       .col-lg-8
         .row.align-items-center
           .col-auto
-            figure
+            figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema1/img8.svg', style="width: 200px").m-auto
           .col
             p En cuanto a los impuestos de orden departamental y municipal, se hace necesario consultar en cada caso particular la forma, los formatos, los calendarios tributarios, entre otros aspectos que se deben tener muy en cuenta para cumplir con estos compromisos tributarios.
@@ -399,7 +399,7 @@
     p.mb-5 #[span.txt-deco1 Actualmente en Colombia los impuestos se presentan y se pagan mediante una auto-declaración.] Para el caso en concreto del impuesto de renta y complementarios, la DIAN es la encargada de verificar dicha liquidación, incluso actualmente para el caso de las personas naturales, sean estos trabajadores por cuenta propia, empleados, prestadores de servicios, entre otros, con base en los reportes de información exógena que realizan las personas jurídicas durante los primeros meses del año, la DIAN está enviando a los contribuyentes, una información provisional para que sean tenidas en cuenta a la hora de la presentación de sus declaraciones.
     .row.align-items-center.mb-5
       .col-lg-3
-        figure.mb-4.mb-lg-0
+        figure.mb-4.mb-lg-0(data-aos="zoom-in-up")
           img(src='@/assets/curso/tema1/img4.png', style="width: 450px").m-auto
       .col-lg-9
         p.mb-0 Adicionalmente la DIAN al obtener esta información exógena, está en condiciones de objetar datos como ingresos, costos, o gastos de las auto declaraciones de los contribuyentes persona natural o jurídica, como también de así considerarlo, iniciar procesos de investigación administrativa, si así lo estima pertinente.

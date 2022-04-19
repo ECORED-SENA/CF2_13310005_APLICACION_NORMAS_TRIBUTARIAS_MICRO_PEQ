@@ -2,13 +2,13 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
       h1 Otras disposiciones tributarias
     .row.align-items-center
       .col-lg-5.mb-4.mb-lg-0
-        figure
+        figure(data-aos="zoom-in-up")
           img(src='@/assets/curso/tema3/img1.png', style="width: 400px").m-auto
       .col-lg-7
         .dual-txt-deco2
@@ -17,7 +17,7 @@
     .titulo-segundo.color-secundario
       h2 3.1 Tipos de impuestos
     p.mb-5 Los impuestos son una carga o tributo que deben pagar los contribuyentes, bien sean personas naturales o personas jurídicas (sociedades nacionales), entendiéndose estas personas jurídicas como las que han sido constituidas en Colombia, o que el domicilio principal o sede, sea en este país. Estos se hacen responsables del pago de impuestos con base en los ingresos, patrimonio o ganancias ocasionales que se reciban en el país o en el exterior, calculados todos ellos teniendo en cuenta la base gravable definida para cada tributo.
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-5.bg-color5.mb-4.mb-lg-0.me-0.me-lg-4
         .p-5
           figure.mb-4
@@ -95,14 +95,14 @@
     #t_3_2
     .titulo-segundo.color-secundario
       h2 3.2 Tipos de informes técnicos
-    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
+    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5(data-aos="zoom-in-up")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-3.mb-4.mb-lg-0
         .col-lg-9
           .bloque-texto-a__texto.p-4
             p Actualmente en las empresas existen varios tipos de informes financieros, desde muy técnicos y específicos cuando se requiere conocer algo puntual de la compañía, hasta informes generales que permiten conocer los múltiples aspectos financieros y contables de la empresa. Hoy en día juegan un papel sumamente importante los softwares contables que permiten una información financiera oportuna que coadyuva en una adecuada toma de decisiones. Por este motivo los informes financieros resultan ser de mucha utilidad para los administradores.
     p.mb-5 Para efectos del presente curso se tratarán dos de los más importantes, el balance general o estado de situación financiera y el estado de resultados.
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-4.bg-color5.mb-4.mb-lg-0.me-0.me-lg-4
         .p-5
           figure.mb-4

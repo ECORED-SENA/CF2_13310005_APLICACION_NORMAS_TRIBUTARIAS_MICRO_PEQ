@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .row.justify-content-center
       .col-lg-10
-        figure
+        figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
 
 </template>
