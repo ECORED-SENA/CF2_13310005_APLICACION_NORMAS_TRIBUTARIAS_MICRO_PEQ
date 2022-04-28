@@ -27,11 +27,11 @@
     .row
       .col-1
       .col-lg-5
-        h3.txt-deco2.mt-5 #[u Este estatuto presenta la siguiente estructura:]
+          h3.mt-5.txt-deco2 Este estatuto presenta la siguiente estructura:
       .col-12
         LineaTiempoE.color-acento-contenido.my-5
           .row(titulo="Título Preliminar" subtitulo="")
-            .col-9
+            .col-lg-9
               .row.align-items-center
                 .col-auto.mx-4
                   figure
@@ -39,7 +39,7 @@
                 .col
                   p En este espacio se define y se caracterizan los compromisos tributarios de los contribuyentes.
           .row(titulo="Libro I - Impuesto de Renta y Complementarios" subtitulo="")
-            .col-9
+            .col-lg-9
               .row.align-items-center
                 .col-auto.mx-4
                   figure
@@ -47,7 +47,7 @@
                 .col
                   p Este libro está dedicado al tema del impuesto de renta y complementarios, a partir de allí se reglamenta el manejo tributario de los ingresos, costos, gastos o deducciones, entre otros temas.
           .row(titulo="Libro II - Retención en la Fuente" subtitulo="")
-            .col-9
+            .col-lg-9
               .row.align-items-center
                 .col-auto.mx-4
                   figure
@@ -55,7 +55,7 @@
                 .col
                   p Este libro segundo enfatiza sobre la retención en la fuente o anticipo de renta. Aquí se reglamentan conceptos, quienes son agentes de retención en la fuente, tarifas, y otros temas relacionados con la materia.
           .row(titulo="Libro III - Impuestos Sobre las Ventas" subtitulo="")
-            .col-9
+            .col-lg-9
               .row.align-items-center
                 .col-auto.mx-4
                   figure
@@ -63,7 +63,7 @@
                 .col
                   p Este libro trata sobre el IVA y todo lo relacionado con el hecho generador del impuesto, las tarifas, base gravable, responsables y no responsables del impuesto, bienes y servicios gravados, exentos y excluidos, y otros conceptos importantes.
           .row(titulo="Libro IV - Impuesto de Timbre Nacional" subtitulo="")
-            .col-9
+            .col-lg-9
               .row.align-items-center
                 .col-auto.mx-4
                   figure
@@ -71,7 +71,7 @@
                 .col
                   p Este libro trata sobre el IVA y todo lo relacionado con el hecho generador del impuesto, las tarifas, base gravable, responsables y no responsables del impuesto, bienes y servicios gravados, exentos y excluidos, y otros conceptos importantes.
           .row(titulo="Libro V - Procedimiento Tributario" subtitulo="")
-            .col-9
+            .col-lg-9
               .row.align-items-center
                 .col-auto.mx-4
                   figure
@@ -79,7 +79,7 @@
                 .col
                   p En este capítulo se detalla el régimen sancionatorio que se aplicará a las personas naturales o jurídicas que, teniendo cualquier obligación tributaria con el estado, no la cumpliera, viéndose involucrada en sanciones tanto de tipo pecuniarias como de tipo legal.
           .row(titulo="Libro VI - Gravamen a los Movimientos Financieros" subtitulo="")
-            .col-9
+            .col-lg-9
               .row.align-items-center
                 .col-auto.mx-4
                   figure
@@ -87,7 +87,7 @@
                 .col
                   p En este capítulo se detalla el régimen sancionatorio que se aplicará a las personas naturales o jurídicas que, teniendo cualquier obligación tributaria con el estado, no la cumpliera, viéndose involucrada en sanciones tanto de tipo pecuniarias como de tipo legal.
           .row(titulo="Libro VII – (Art. 882 al 898) ECE Y CHC" subtitulo="")
-            .col-9
+            .col-lg-9
               .row.align-items-center
                 .col-auto.mx-4
                   figure

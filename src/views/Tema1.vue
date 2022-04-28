@@ -111,13 +111,13 @@
               .col-lg-9.bg-color2
                 .py-4.ps-4.pe-5
                   TabsA.color-acento-botones
-                    .tarjeta.color-acento-botones.p-4(titulo="Sujeto activo")
+                    .tarjeta.color-acento-botones.p-4(titulo="Sujeto<br>activo")
                       p Es el estado, quien, por medio de una o varias entidades de su subordinación, establece las reglas de juego para administrar y controlar los impuestos.
-                    .tarjeta.color-acento-botones.p-4(titulo="Sujeto pasivo")
+                    .tarjeta.color-acento-botones.p-4(titulo="Sujeto<br>pasivo")
                       p Es el contribuyente, es decir toda persona natural o jurídica que está en la obligación de pagar el impuesto. Es decir, es quien crea el impuesto mediante el desarrollo de una actividad gravada con el mismo.
                     .tarjeta.color-acento-botones.p-4(titulo="Hecho<br>generador")
                       p Es la actuación de comprar y/o vender un producto, o prestar un servicio, lo cual conlleva a adquirir un compromiso fiscal.
-                    .tarjeta.color-acento-botones.p-4(titulo="Base gravable")
+                    .tarjeta.color-acento-botones.p-4(titulo="Base<br>gravable")
                       p Es el valor monetario al cual se le aplica la tasa establecida para el impuesto.
                     .tarjeta.color-acento-botones.p-4(titulo="Tarifa")
                       p Es la cantidad porcentual que debe aplicarse a la base gravable.

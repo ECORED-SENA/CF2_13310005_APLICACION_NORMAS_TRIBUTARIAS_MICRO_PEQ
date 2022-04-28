@@ -95,7 +95,7 @@
     #t_3_2
     .titulo-segundo.color-secundario
       h2 3.2 Tipos de informes técnicos
-    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5(data-aos="zoom-in-up")
+    .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5(data-aos="zoom-in-up")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-3.mb-4.mb-lg-0
         .col-lg-9
