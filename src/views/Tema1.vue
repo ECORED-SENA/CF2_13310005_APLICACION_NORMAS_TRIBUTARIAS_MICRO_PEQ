@@ -404,13 +404,13 @@
       .col-lg-9
         p.mb-0 Adicionalmente la DIAN al obtener esta información exógena, está en condiciones de objetar datos como ingresos, costos, o gastos de las auto declaraciones de los contribuyentes persona natural o jurídica, como también de así considerarlo, iniciar procesos de investigación administrativa, si así lo estima pertinente.
     .row.bg-color1.mb-5
-      .col-12.p-5
+      .col-12.p-2.p-lg-5
         h3 Obligaciones
         p.mb-5 Son muchas las obligaciones o responsabilidades que se asumen cuando se crea una micro o pequeña empresa, existen responsabilidades tanto al interior de la compañía, de tipo tributario, ante terceros sean estos el estado, los proveedores, los clientes, los empleados, entre otros. La idea a es resaltar los compromisos más relevantes para nuestras empresas:
-        .tarjeta.tarjeta--azul.p-4
+        .tarjeta.tarjeta--azul.p-1.p-lg-4
           SlyderA
             .row.justify-content-center
-              .col-11
+              .col-lg-11
                 .p-5
                   .row.align-items-center
                     .col-lg-6.mb-4.mb-lg-0
@@ -440,7 +440,7 @@
               .col-11
                 .p-5
                   .row.align-items-center
-                    .col-lg-6
+                    .col-lg-6.mb-4.mb-lg-0
                       h3.mb-4 Obligaciones de tipo tributario:
                       .row.align-items-start.mb-3
                         .col-auto
@@ -461,7 +461,7 @@
               .col-11
                 .p-5
                   .row.align-items-center
-                    .col-lg-6
+                    .col-lg-6.mb-4.mb-lg-0
                       h3.mb-4 Obligaciones laborales:
                       .row.align-items-start.mb-3
                         .col-auto
