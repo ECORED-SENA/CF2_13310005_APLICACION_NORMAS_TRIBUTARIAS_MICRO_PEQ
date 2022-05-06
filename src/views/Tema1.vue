@@ -411,7 +411,7 @@
           SlyderA
             .row.justify-content-center
               .col-lg-11
-                .p-5
+                .p-3.p-lg-5
                   .row.align-items-center
                     .col-lg-6.mb-4.mb-lg-0
                       h3.mb-4 Obligaciones con los socios o accionistas según el tipo de empresa:
@@ -438,7 +438,7 @@
                         img(src='@/assets/curso/tema1/img10.svg', style="width: 450px").m-auto
             .row.justify-content-center
               .col-11
-                .p-5
+                .p-3.p-lg-5
                   .row.align-items-center
                     .col-lg-6.mb-4.mb-lg-0
                       h3.mb-4 Obligaciones de tipo tributario:
@@ -459,7 +459,7 @@
                         img(src='@/assets/curso/tema1/img11.svg', style="width: 450px").m-auto
             .row.justify-content-center
               .col-11
-                .p-5
+                .p-3.p-lg-5
                   .row.align-items-center
                     .col-lg-6.mb-4.mb-lg-0
                       h3.mb-4 Obligaciones laborales:
@@ -479,18 +479,18 @@
                       figure
                         img(src='@/assets/curso/tema1/img12.svg', style="width: 450px").m-auto
     .row.bg-color3.mb-5
-      .col-12.p-5
+      .col-12.p-2.p-lg-5
         h3 Contenido de las liquidaciones
         p.mb-5 Definir un estándar de la información que deben contener las liquidaciones de las declaraciones tributarias que deben presentar las micro y pequeñas empresas es muy complicado, especialmente por la multiplicidad de declaraciones que posiblemente deban presentar. Sin embargo, lo que sí se puede es detallar a nivel general la información más común, que es solicitada en estos casos. A continuación, se visualizan los siguientes:
-        .tarjeta.tarjeta--azul.p-4
+        .tarjeta.tarjeta--azul.p-2.p-lg-4
           SlyderA
             .row.justify-content-center
-              .col-11
-                .p-5
+              .col-lg-11
+                .p-3.p-lg-5
                   .row.align-items-center
-                    .col-lg-6
+                    .col-lg-6.mb-4.mb-lg-0
                       h3 Soportes para los activos:
-                      p.mb-5 En cuanto a los activos que se declaren en los compromisos tributarios de nuestra empresa, debemos contar con el documento idóneo para determinar la propiedad del bien y a su vez nos sirva para determinar el costo fiscal por el que se declara. A continuación, relacionamos una lista general dependiendo de los activos:
+                      p.mb-4 En cuanto a los activos que se declaren en los compromisos tributarios de nuestra empresa, debemos contar con el documento idóneo para determinar la propiedad del bien y a su vez nos sirva para determinar el costo fiscal por el que se declara. A continuación, relacionamos una lista general dependiendo de los activos:
                       ul.lista-ul
                         li 
                           i.fas.fa-check(style="color: #EF9F14")
@@ -518,9 +518,9 @@
                         img(src='@/assets/curso/tema1/img16.svg', style="width: 450px").m-auto
             .row.justify-content-center
               .col-11
-                .p-5
+                .p-3.p-lg-5
                   .row.align-items-center
-                    .col-lg-6
+                    .col-lg-6.mb-4.mb-lg-0
                       h3 Soportes para los pasivos:
                       p En cuanto a los pasivos que se detallan en las declaraciones tributarias de nuestra empresa, debemos tenerlos debidamente soportados. Por ejemplo, si tenemos créditos con entidades financieras, se debe contar con el extracto bancario que respalde el saldo. Los créditos con terceros particulares, se debe tener el documento soporte con fecha cierta.
                     .col-lg-6
@@ -528,9 +528,9 @@
                         img(src='@/assets/curso/tema1/img17.svg', style="width: 450px").m-auto
             .row.justify-content-center
               .col-11
-                .p-5
+                .p-3.p-lg-5
                   .row.align-items-center
-                    .col-lg-6
+                    .col-lg-6.mb-4.mb-lg-0
                       h3 Soportes para los ingresos:
                       p Prácticamente es el ítem que ante la Dian es menos complicado soportar, sin embargo, lo ideal es contar con las facturas de venta, contratos que dieron origen a estos ingresos y demás documentos que nos permiten demostrar el origen de nuestros recursos. La contabilidad de nuestras empresas, a su vez, representa una prueba importante para evidenciar los ingresos.
                     .col-lg-6
