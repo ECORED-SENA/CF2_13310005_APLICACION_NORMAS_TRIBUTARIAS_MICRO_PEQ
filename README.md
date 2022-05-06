@@ -1,6 +1,6 @@
 # **Micro y pequeña empresa y su responsabilidad tributaria**
 
-## **https://ecored-sena.github.io/CF2_13310005_APLICACION_NORMAS_TRIBUTARIAS_MICRO_PEQ/**
+## **Enlace GitHubPages**
 
 [https://ecored-sena.github.io/CF2_13310005_APLICACION_NORMAS_TRIBUTARIAS_MICRO_PEQ/](https://ecored-sena.github.io/CF2_13310005_APLICACION_NORMAS_TRIBUTARIAS_MICRO_PEQ/)
 
