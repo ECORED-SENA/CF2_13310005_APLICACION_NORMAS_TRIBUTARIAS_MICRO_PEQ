@@ -169,14 +169,13 @@ export default {
   },
   complementario: [
     {
-      texto:
-        'Correa D. (2020). <em>Impuestos en Colombia</em>. [Video]. YouTube.',
+      texto: 'Correa D. (2020). <em>Impuestos en Colombia</em>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=-p6FCB0p3o0&t=268s',
     },
     {
       texto:
-        'Actualícese Video (2021). <em>Nueva reforma tributaria de los colombianos: novedades</em>. [Video]. YouTube.',
+        'Actualícese Video (2021). <em>Nueva reforma tributaria de los colombianos: novedades</em>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=f2y8vKfyh0Q',
     },
@@ -226,12 +225,6 @@ export default {
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=12672#:~:text=Cr%C3%A9ase%20el%20Fondo%20Colombiano%20de,es%20la%20financiaci%C3%B3n%20de%20proyectos%2C',
     },
     {
-      referencia:
-        '<em>Decreto 957 de 2.019</em>. [Ministerio de Comercio, Industria y Turismo] .<em>Por el cual se adiciona el capítulo 13 al Título 1 de la Parte 2 del Libro 2 del Decreto 1074 de 2015, Decreto Único del Sector Comercio, Industria y Turismo y se reglamenta el artículo 2° de la Ley 590 de 2000, modificado por el artículo 43 de la Ley 1450 de 2011. 5 de junio de 2019</em>. ',
-      link:
-        'https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20957%20DEL%2005%20DE%20JUNIO%20DE%202019.pdf',
-    },
-    {
       referencia: 'Dian. (2021). <em>Formularios e instructivos</em>. ',
       link:
         'https://www.dian.gov.co/atencionciudadano/formulariosinstructivos/Paginas/default.aspx',
@@ -253,12 +246,6 @@ export default {
         '<em>Decreto 1415 de 2018</em>. [Presidente de la República de Colombia]. Por el cual se modifica parcialmente el Capítulo 2 Título 1 Parte 6 del Libro 1 del Decreto 1625 de 2016 Único Reglamentario en Materia Tributaria. Agosto 3 de 2018. ',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=87868',
-    },
-    {
-      referencia:
-        '<em>Ley 590 de 2000. Por la cual se dictan disposiciones para promover el desarrollo de las micro, pequeñas y medianas empresa. Julio 10 de 2000</em>. ',
-      link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=12672#:~:text=Cr%C3%A9ase%20el%20Fondo%20Colombiano%20de,es%20la%20financiaci%C3%B3n%20de%20proyectos%2C',
     },
     {
       referencia:
@@ -323,13 +310,37 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Carlos',
+        nombre: 'Carlos Julian Ramirez',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Mayerly Pérez Jaimes',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -340,7 +351,7 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Maria Eugenia Mejía López',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

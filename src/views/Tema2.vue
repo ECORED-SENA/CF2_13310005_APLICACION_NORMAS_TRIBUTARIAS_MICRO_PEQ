@@ -13,7 +13,7 @@
             img(src='@/assets/curso/tema1/img1.svg', style="width: 250px").m-auto
         .col-lg-9
           .bloque-texto-a__texto.p-4
-            p Cuando  se habla de normatividad tributaria en Colombia, se hace referencia a las reglas establecidas para el manejo de los tributos en Colombia; ya se ha explicado de manera amplia que estos tributos pueden ser del orden nacional, departamental o municipal. Estas normas provienen de la constitución nacional, las leyes, las ordenanzas, los decretos, y las demás disposiciones que en la materia dispongan los encargados de dictar dichas directrices. Actualmente las normas más importantes que regulan los tributos en Colombia para las personas naturales y jurídicas son el estatuto tributario, el decreto único reglamentario 1625 de 2016 y las demás normas que puedan resultar en la materia.
+            p Cuando  se habla de normatividad tributaria en Colombia, se hace referencia a las reglas establecidas para el manejo de los tributos en Colombia; ya se ha explicado de manera amplia que estos tributos pueden ser del orden nacional, departamental o municipal. Estas normas provienen de la Constitución Nacional, las leyes, las ordenanzas, los decretos, y las demás disposiciones que en la materia dispongan los encargados de dictar dichas directrices. Actualmente las normas más importantes que regulan los tributos en Colombia para las personas naturales y jurídicas son el estatuto tributario, el decreto único reglamentario 1625 de 2016 y las demás normas que puedan resultar en la materia.
     #t_2_1.pt-5
     .titulo-segundo.color-secundario
       h2 2.1 Estatuto tributario
@@ -30,7 +30,7 @@
           h3.mt-5.txt-deco2 Este estatuto presenta la siguiente estructura:
       .col-12
         LineaTiempoE.color-acento-contenido.my-5
-          .row(titulo="Título Preliminar" subtitulo="")
+          .row(titulo="Título preliminar" subtitulo="")
             .col-lg-9
               .row.align-items-center
                 .col-auto.mx-4
@@ -38,7 +38,7 @@
                     img(src='@/assets/curso/tema2/img2.svg', style="width: 100px").m-auto
                 .col
                   p En este espacio se define y se caracterizan los compromisos tributarios de los contribuyentes.
-          .row(titulo="Libro I - Impuesto de Renta y Complementarios" subtitulo="")
+          .row(titulo="Libro I - Impuesto de renta y complementarios" subtitulo="")
             .col-lg-9
               .row.align-items-center
                 .col-auto.mx-4
@@ -46,7 +46,7 @@
                     img(src='@/assets/curso/tema2/img3.svg', style="width: 100px").m-auto
                 .col
                   p Este libro está dedicado al tema del impuesto de renta y complementarios, a partir de allí se reglamenta el manejo tributario de los ingresos, costos, gastos o deducciones, entre otros temas.
-          .row(titulo="Libro II - Retención en la Fuente" subtitulo="")
+          .row(titulo="Libro II - Retención en la fuente" subtitulo="")
             .col-lg-9
               .row.align-items-center
                 .col-auto.mx-4
@@ -54,7 +54,7 @@
                     img(src='@/assets/curso/tema2/img3.svg', style="width: 100px").m-auto
                 .col
                   p Este libro segundo enfatiza sobre la retención en la fuente o anticipo de renta. Aquí se reglamentan conceptos, quienes son agentes de retención en la fuente, tarifas, y otros temas relacionados con la materia.
-          .row(titulo="Libro III - Impuestos Sobre las Ventas" subtitulo="")
+          .row(titulo="Libro III - Impuestos sobre las ventas" subtitulo="")
             .col-lg-9
               .row.align-items-center
                 .col-auto.mx-4
@@ -62,23 +62,15 @@
                     img(src='@/assets/curso/tema2/img3.svg', style="width: 100px").m-auto
                 .col
                   p Este libro trata sobre el IVA y todo lo relacionado con el hecho generador del impuesto, las tarifas, base gravable, responsables y no responsables del impuesto, bienes y servicios gravados, exentos y excluidos, y otros conceptos importantes.
-          .row(titulo="Libro IV - Impuesto de Timbre Nacional" subtitulo="")
+          .row(titulo="Libro IV - Impuesto de timbre nacional" subtitulo="")
             .col-lg-9
               .row.align-items-center
                 .col-auto.mx-4
                   figure
                     img(src='@/assets/curso/tema2/img3.svg', style="width: 100px").m-auto
                 .col
-                  p Este libro trata sobre el IVA y todo lo relacionado con el hecho generador del impuesto, las tarifas, base gravable, responsables y no responsables del impuesto, bienes y servicios gravados, exentos y excluidos, y otros conceptos importantes.
-          .row(titulo="Libro V - Procedimiento Tributario" subtitulo="")
-            .col-lg-9
-              .row.align-items-center
-                .col-auto.mx-4
-                  figure
-                    img(src='@/assets/curso/tema2/img3.svg', style="width: 100px").m-auto
-                .col
-                  p En este capítulo se detalla el régimen sancionatorio que se aplicará a las personas naturales o jurídicas que, teniendo cualquier obligación tributaria con el estado, no la cumpliera, viéndose involucrada en sanciones tanto de tipo pecuniarias como de tipo legal.
-          .row(titulo="Libro VI - Gravamen a los Movimientos Financieros" subtitulo="")
+                  p Este libro hacía referencia al impuesto de timbre, el cual quedó derogado por medio de la ley 2152 del año 2021.
+          .row(titulo="Libro V - Procedimiento tributario" subtitulo="")
             .col-lg-9
               .row.align-items-center
                 .col-auto.mx-4
@@ -86,6 +78,14 @@
                     img(src='@/assets/curso/tema2/img3.svg', style="width: 100px").m-auto
                 .col
                   p En este capítulo se detalla el régimen sancionatorio que se aplicará a las personas naturales o jurídicas que, teniendo cualquier obligación tributaria con el estado, no la cumpliera, viéndose involucrada en sanciones tanto de tipo pecuniarias como de tipo legal.
+          .row(titulo="Libro VI - Gravamen a los movimientos financieros" subtitulo="")
+            .col-lg-9
+              .row.align-items-center
+                .col-auto.mx-4
+                  figure
+                    img(src='@/assets/curso/tema2/img3.svg', style="width: 100px").m-auto
+                .col
+                  p Aquí se encontrará todo lo relacionado con el 4x1000 el cual se recauda en cabeza del sector financiero, adicionalmente se encontrará regulación sobre base gravable, tarifa, exenciones, entre otros temas.
           .row(titulo="Libro VII – (Art. 882 al 898) ECE Y CHC" subtitulo="")
             .col-lg-9
               .row.align-items-center
@@ -145,11 +145,12 @@
       h2 2.4. Otras responsabilidades tributarias
     p.mb-5 Este es otro tema igual que el anteriormente expuesto, en donde los micro y pequeños emprendedores, deben tener pleno conocimiento para cumplir con dichas responsabilidades adicionales y no asumir riesgos de posibles multas o sanciones. Es aquí donde se encuentra la responsabilidad de reportar la información exógena de las empresas ante la DIAN. En algunos municipios del territorio nacional también se regulan estos reportes de carácter obligatorio, por ello es muy importante conocer los acuerdos municipales en donde se desarrollará el objeto social.
     .titulo-sexto.color-acento-contenido.mb-5
-      p.mb-0 #[b Figura 2.] Formatos de impuestos
-    figure.mb-5(data-aos="zoom-in-up")
+      p.mb-0 #[b Figura 2.] Medios magnéticos
+    figure(data-aos="zoom-in-up")
       img(src='@/assets/curso/tema2/img1.png', style="width: 1200px").m-auto
+    p.mb-5.ms-3 Nota. SENA (2022).
     .row.justify-content-center.mb-5
-      .col-lg-7
+      .col-lg-8
         p.text-center #[b Adicionalmente en el marco normativo de las empresas se tienen otras responsabilidades tributarias un poco más formales que a continuación se detallarán.]
     .row.justify-content-center
       .col-lg-8
@@ -179,10 +180,10 @@
                   .col
                     p Ahora bien, desde el punto de vista legal el artículo 19 del Código de Comercio manifiesta que están obligados a llevar la contabilidad todo aquel que sea considerado comerciante en Colombia, sea esta persona natural o jurídica. Adicionalmente el artículo 772 del estatuto tributario presenta que todo aquel que pretenda aportar su contabilidad como medio de prueba fiscal para todos sus efectos, lo debe realizar de conformidad con el marco regulatorio permitido en Colombia, que son las normas internacionales de información financiera (NIIF).
                     p.mb-0 El mismo código de comercio explica que los comerciantes son aquellas personas naturales o jurídicas que se dediquen profesionalmente a realizar actividades consideradas por la ley como mercantiles. En cuanto los actos mercantiles el artículo 20 del código del comercio expresamente señala estas actividades.
-                p #[b A continuación, se ilustrarán algunos de los soportes que resultan ser los más comunes en el manejo de la contabilidad de las micro y pequeñas empresas (ver figura 3):]
+                p #[b A continuación, se ilustran algunos de los soportes que resultan ser los más comunes en el manejo de la contabilidad de las micro y pequeñas empresas (Ver soportes contables):]
                 p.mb-5 Para poder documentar la contabilidad de las micro y pequeñas empresas se hace necesario llevar los soportes adecuados de conformidad con la norma contable que se deben conservar en debida forma. En especial la norma del artículo 617 del Estatuto Tributario que regula lo que tiene que ver con las facturas que deben realizar las personas naturales o jurídicas obligadas a ello. Pero el formalismo de los soportes no tiene que ver sólo con las facturas, se supone que todo registro contable resulta de un documento soporte que da origen al movimiento contable, por ejemplo, los extractos bancarios, la factura electrónica, el documento equivalente, las declaraciones tributarias, recibos de caja menor, etc.
                 a.boton.color-acento-botones.indicador__container(@click="modal1 = true")
-                  span Ver Soportes Contables
+                  span Ver soportes contables
                   i.fas.fa-search-plus(style="color: #EF9F14")
                   .indicador--click(v-if="mostrarIndicador")
     ModalA(:abrir-modal.sync="modal1")
@@ -224,7 +225,7 @@
               .col-11
                 figure.mb-4
                   img(src='@/assets/curso/tema2/img9.png', style="width: 600px").m-auto
-                p.text-center.txt-deco3 #[b Nomina]
+                p.text-center.txt-deco3 #[b Nómina]
             .row.justify-content-center
               .col-11
                 figure.mb-4
@@ -239,42 +240,48 @@
               .col-11
                 figure.mb-4
                   img(src='@/assets/curso/tema2/img12.png', style="width: 400px").m-auto
-                p.text-center.txt-deco3 #[b Recibo de transferencia de fondos electrónicos.]
+                p.text-center.txt-deco3 #[b Recibo de transferencia de fondos electrónicos]
             .row.justify-content-center
               .col-11
                 figure.mb-4
                   img(src='@/assets/curso/tema2/img13.png', style="width: 400px").m-auto
-                p.text-center.txt-deco3 #[b Recibo de pago interbancario.]
+                p.text-center.txt-deco3 #[b Recibo de pago interbancario]
             .row.justify-content-center
               .col-11
                 figure.mb-4
                   img(src='@/assets/curso/tema2/img14.png', style="width: 250px").m-auto
-                p.text-center.txt-deco3 #[b Comprobante de pago con tarjeta de crédito.]
+                p.text-center.txt-deco3 #[b Comprobante de pago con tarjeta de crédito]
             .row.justify-content-center
               .col-11
                 figure.mb-4
                   img(src='@/assets/curso/tema2/img15.png', style="width: 600px").m-auto
-                p.text-center.txt-deco3 #[b Extractos bancarios.]
+                p.text-center.txt-deco3 #[b Extractos bancarios]
             .row.justify-content-center
               .col-11
                 figure.mb-4
                   img(src='@/assets/curso/tema2/img16.png', style="width: 600px").m-auto
-                p.text-center.txt-deco3 #[b Recibos de caja menor.]
+                p.text-center.txt-deco3 #[b Recibos de caja menor]
             .row.justify-content-center
               .col-11
                 figure.mb-4
                   img(src='@/assets/curso/tema2/img17.png', style="width: 400px").m-auto
-                p.text-center.txt-deco3 #[b Notas débito y notas crédito.]
+                p.text-center.txt-deco3 #[b Notas débito y notas crédito]
             .row.justify-content-center
               .col-11
                 figure.mb-4
                   img(src='@/assets/curso/tema2/img18.png', style="width: 600px").m-auto
-                p.text-center.txt-deco3 #[b Notas de contabilidad (Registros de ajustes y de NIIF).]
+                p.text-center.txt-deco3 #[b Notas de contabilidad (Registros de ajustes y de NIIF)]
             .row.justify-content-center
               .col-11
                 figure.mb-4
                   img(src='@/assets/curso/tema2/img19.png', style="width: 600px").m-auto
-                p.text-center.txt-deco3 #[b Comprobante de contabilidad.]
+                p.text-center.txt-deco3 #[b Comprobante de contabilidad]
+            .row.justify-content-center
+              .col-11
+                figure.mb-4
+                  img(src='@/assets/curso/tema2/img20.png', style="width: 600px").m-auto
+                p.text-center.txt-deco3 #[b Consignaciones bancarias]
+          p.mb-0 Nota. SENA (2022).
 
 </template>
 

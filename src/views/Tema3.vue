@@ -12,7 +12,7 @@
           img(src='@/assets/curso/tema3/img1.png', style="width: 400px").m-auto
       .col-lg-7
         .dual-txt-deco2
-          p(style="position: relative; z-index: 1;") El sistema tributario es la estructura legal en la materia, que rige la relación entre el estado y los demás actores del universo fiscal colombiano. Es decir que es allí donde se establecen las reglas del juego para que todos los contribuyentes tengan en claro las repercusiones monetarias que se podrían asumir a la hora de emprender formal o incluso informalmente un negocio, pues es claro que hoy en día mediante los mecanismos de control y de recepción de información de la DIAN, se hace cada vez más difícil incurrir en la evasión de impuestos, y con las instrucciones cada vez más rigurosas para poder contratar con un cliente y que a vez este pueda deducir de sus declaraciones tributarias los costos o gastos procedentes, se ha conseguido de manera paulatina el entendimiento de la importancia por parte de los emprendedores de formalizar nuestros negocios, pues son cada vez más las ventajas que las desventajas, pues como ya se ha manifestado, el hecho de ser informal no le exime de convertirse en declarante, en cambio conformando las empresas de acuerdo a la ley, se pueden acceder a beneficios del mismo gobierno como auxilios, convenios, participar en licitaciones, entre otros, y ya con el sector privado se abre la baraja de clientes potenciales para el negocio y se fortalece el good will.
+          p(style="position: relative; z-index: 1;") El sistema tributario es la estructura legal en la materia, que rige la relación entre el Estado y los demás actores del universo fiscal colombiano. Es decir que es allí donde se establecen las reglas del juego para que todos los contribuyentes tengan en claro las repercusiones monetarias que se podrían asumir a la hora de emprender formal o incluso informalmente un negocio, pues es claro que hoy en día mediante los mecanismos de control y de recepción de información de la DIAN, se hace cada vez más difícil incurrir en la evasión de impuestos, y con las instrucciones cada vez más rigurosas para poder contratar con un cliente y que a vez este pueda deducir de sus declaraciones tributarias los costos o gastos procedentes, se ha conseguido de manera paulatina el entendimiento de la importancia por parte de los emprendedores de formalizar nuestros negocios, pues son cada vez más las ventajas que las desventajas, pues como ya se ha manifestado, el hecho de ser informal no le exime de convertirse en declarante, en cambio conformando las empresas de acuerdo a la ley, se pueden acceder a beneficios del mismo gobierno como auxilios, convenios, participar en licitaciones, entre otros, y ya con el sector privado se abre la baraja de clientes potenciales para el negocio y se fortalece el good will.
     #t_3_1.pt-5
     .titulo-segundo.color-secundario
       h2 3.1 Tipos de impuestos
@@ -67,7 +67,7 @@
                 td Impuesto al valor agregado (IVA)
                 td
                   p Tarifa general: 19%
-                  p Tarifa especiales: 0% y 5%
+                  p Tarifas especiales: 0% y 5%
               tr
                 td Impuesto al consumo
                 td Tarifas: 2%, 4%, 8% y 16%
@@ -100,7 +100,7 @@
         .col-lg-3.mb-4.mb-lg-0
         .col-lg-9
           .bloque-texto-a__texto.p-4
-            p Actualmente en las empresas existen varios tipos de informes financieros, desde muy técnicos y específicos cuando se requiere conocer algo puntual de la compañía, hasta informes generales que permiten conocer los múltiples aspectos financieros y contables de la empresa. Hoy en día juegan un papel sumamente importante los softwares contables que permiten una información financiera oportuna que coadyuva en una adecuada toma de decisiones. Por este motivo los informes financieros resultan ser de mucha utilidad para los administradores.
+            p Actualmente en las empresas existen varios tipos de informes financieros, desde muy técnicos y específicos cuando se requiere conocer algo puntual de la compañía, hasta informes generales que permiten conocer los múltiples aspectos financieros y contables de la empresa. Hoy en día juegan un papel sumamente importante los #[i softwares] contables que permiten una información financiera oportuna que coadyuva en una adecuada toma de decisiones. Por este motivo los informes financieros resultan ser de mucha utilidad para los administradores.
     p.mb-5 Para efectos del presente curso se tratarán dos de los más importantes, el balance general o estado de situación financiera y el estado de resultados.
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-4.bg-color5.mb-4.mb-lg-0.me-0.me-lg-4
@@ -114,7 +114,7 @@
           figure.mb-4
             img(src='@/assets/curso/tema3/img3.svg', style="width: 100px")
           h3 Estado de resultados
-          p Estado financiero también conocido como pérdidas y ganancias, como su nombre lo indica, refleja el resultado económico del periodo anual, es decir, muestra la utilidad o pérdida que la micro o pequeña empresa tuvo durante el periodo gravable.
+          p Estado financiero también conocido como pérdidas y ganancias, como su nombre lo indica, refleja el resultado económico del período anual, es decir, muestra la utilidad o pérdida que la micro o pequeña empresa tuvo durante el período gravable.
     .separador.mb-5
     #t_3_3
     .titulo-segundo.color-secundario
@@ -147,19 +147,19 @@
                       figure
                         img(src='@/assets/curso/tema3/img5.svg', style="width: 30px").m-auto
                     .col
-                      p.mb-0 #[b Arancel ad-valorem]: Se calcula como un porcentaje del valor de la importación.
+                      p.mb-0 #[b Arancel ad-valorem]: se calcula como un porcentaje del valor de la importación.
                   .row.align-items-start.mb-3
                     .col-auto
                       figure
                         img(src='@/assets/curso/tema3/img6.svg', style="width: 30px").m-auto
                     .col
-                      p.mb-0 #[b Arancel específico]: Se calcula como una determinada cantidad de unidades monetarias por unidad de volumen de importación.
+                      p.mb-0 #[b Arancel específico]: se calcula como una determinada cantidad de unidades monetarias por unidad de volumen de importación.
                   .row.align-items-start
                     .col-auto
                       figure
                         img(src='@/assets/curso/tema3/img7.svg', style="width: 30px").m-auto
                     .col
-                      p.mb-0 #[b Arancel mixto]: Es que está compuesto por un arancel ad-valorem y un arancel específico.
+                      p.mb-0 #[b Arancel mixto]: es que está compuesto por un arancel ad-valorem y un arancel específico.
           .py-3.py-md-4(titulo="Partida arancelaria")
             .row
               .col-12
