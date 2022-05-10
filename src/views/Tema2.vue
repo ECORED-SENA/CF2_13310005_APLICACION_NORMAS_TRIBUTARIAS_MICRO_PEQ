@@ -77,7 +77,7 @@
                   figure
                     img(src='@/assets/curso/tema2/img3.svg', style="width: 100px").m-auto
                 .col
-                  p En este capítulo se detalla el régimen sancionatorio que se aplicará a las personas naturales o jurídicas que, teniendo cualquier obligación tributaria con el estado, no la cumpliera, viéndose involucrada en sanciones tanto de tipo pecuniarias como de tipo legal.
+                  p En este capítulo se detalla el régimen sancionatorio que se aplicará a las personas naturales o jurídicas que, teniendo cualquier obligación tributaria con el Estado, no la cumpliera, viéndose involucrada en sanciones tanto de tipo pecuniarias como de tipo legal.
           .row(titulo="Libro VI - Gravamen a los movimientos financieros" subtitulo="")
             .col-lg-9
               .row.align-items-center
