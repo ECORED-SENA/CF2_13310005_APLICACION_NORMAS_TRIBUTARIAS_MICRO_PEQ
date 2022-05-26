@@ -166,7 +166,7 @@
                   .col
                     p.mb-0 Hoy en día este trámite se puede realizar de manera presencial en la sucursal de la DIAN de cada localidad, como también de manera virtual ingresando a www.dian.gov.co seleccionando la opción de asignación de citas, allí se continúa el proceso para cumplir con este registro.
                 p.mb-4 A continuación, se encontrará mayor información sobre el concepto, responsabilidad y clasificación del Registro Único Tributario. 
-                a.boton.color-acento-contenido.texto-blanco(href="https://youtu.be/nfJPSfcl_tM" target="_blank" type="application/pdf")
+                a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=Ltgyaxh0ga0" target="_blank" type="application/pdf")
                   span Ver Video
                   i.fas.fa-video(style="color: #EF9F14 !important")
           .py-4.py-md-5(titulo="Soportes e información contable" :icono="require('@/assets/curso/tema2/img7.svg')")
