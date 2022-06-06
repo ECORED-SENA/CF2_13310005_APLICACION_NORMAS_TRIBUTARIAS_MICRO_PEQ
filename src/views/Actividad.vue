@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Elementos de la responsabilidad tributaria
-        p.mb-4 #[b Objetivo] Identificar los elementos y su manera de funcionar para las micro y pequeñas empresas.
+        p.mb-4 Identificar los elementos y su manera de funcionar para las micro y pequeñas empresas.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
